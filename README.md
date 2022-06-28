@@ -1,2 +1,2 @@
 # logger
-Logging logger for logging (in C)
+Logging logger for logging (in C) (by M)
